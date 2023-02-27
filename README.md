@@ -19,3 +19,5 @@
 </div><br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stoneys1&layout=compact)](https://github.com/stoneys1/)
+
+![snake gif](https://github.com/stoneys1/README.md/blob/output/github-contribution-grid-snake.svg)
