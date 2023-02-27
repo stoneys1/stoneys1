@@ -1,3 +1,10 @@
+- uses : Plantane/snk@master
+ id: snake-gif
+with:
+github_user_name: Marcus Vinicius Alves Bonacina #stoneys1
+gif_out_path: dist/github-contribuition-grid-snake.gif
+svg_out_path: dist/github-contribuition-grid-snake.svg
+
 # Nome da Actions:  
 name: Snake Game
 
