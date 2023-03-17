@@ -5,7 +5,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marcus_vini1/)
 [![Discord](	https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/KkkNXVJSZV)
 
-![Stoneys1 GitHub stats](https://github-readme-stats.vercel.app/api?username=Stoneys1&show_icons=true&theme=tokyonight)
+![Stoneys1 Status](https://github-readme-stats.vercel.app/api?username=stoneys1&show_icons=true&theme=tokyonight)
 
 
 ## Tecnologias que eu mais utilizo🖥️
@@ -18,6 +18,6 @@
 <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stoneys1&layout=compact)](https://github.com/stoneys1/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stoneys1&compact_progress=true)](https://github.com/stoneys1/github-readme-stats)
 
 ![snake svg](https://github.com/stoneys1/Stoneys1/blob/output/github-contribution-grid-snake.svg)
