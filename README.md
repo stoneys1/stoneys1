@@ -1,13 +1,9 @@
 <h1 align="left">Olá, Sou o Marcus Vinicius, Bem-vindo(a) 👋</h1>
 
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Stoneys1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="148" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Stoneys1&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dracula&hide_border=true" height="148" alt="languages graph"  />
 </div>
-
-###
 
 <div align="center">
   <a href="https://www.youtube.com/channel/UCDx6C4e3rjTDbRDFLfrhMJg" target="_blank">
@@ -27,21 +23,13 @@
   </a>
 </div>
 
-###
-
 <h1 align="left">Portfolio📓:</h1>
-
-###
 
 <div align="center">
   <img height="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2owaDBvbjlkNGw0dXdyZHlzNmt0MGgzcmt2NGowNXA3ajBhNXk0bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HRC3FlKFIj2WAIMDR3/giphy.gif"  />
 </div>
 
-###
-
 <img src="https://raw.githubusercontent.com/Stoneys1/Stoneys1/output/snake.svg" alt="Snake animation" />
-
-###
 
 <br clear="both">
 
@@ -51,18 +39,7 @@
   </a>
 </div>
 
-###
-
-<h2 align="left">Tecnologias que eu mais utilizo🖥️
-<div align="center">
- <a href="https://github.com/stoneys1/Amazon" target="_blank">
- <a href="https://github.com/stoneys1/App-Musica" target="_blank">
-  <a href="https://github.com/stoneys1/Travel" target="_blank">
-  </div>
-
-
-
-###
+<h2 align="left">Tecnologias que eu mais utilizo🖥️</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -79,5 +56,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
 </div>
-
-###
