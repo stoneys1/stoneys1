@@ -29,7 +29,11 @@
   <img height="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2owaDBvbjlkNGw0dXdyZHlzNmt0MGgzcmt2NGowNXA3ajBhNXk0bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HRC3FlKFIj2WAIMDR3/giphy.gif"  />
 </div>
 
-<img src="https://raw.githubusercontent.com/Stoneys1/Stoneys1/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 <br clear="both">
 
