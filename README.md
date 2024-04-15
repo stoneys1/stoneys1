@@ -1,14 +1,12 @@
-<h1 align="left">Olá, Sou o Marcus Vinicius, Bem-vindo(a) 👋</h1>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Stoneys1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="148" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Stoneys1&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dracula&hide_border=true" height="148" alt="languages graph"  />
+<!--título-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block"> Olá, Sou o Marcus Vinicius, Bem-vindo(a)🖖</h1></summary>
 </div>
 
-###
 
+
+<!-- Links -->
 <div align="center">
   <a href="https://www.youtube.com/channel/UCDx6C4e3rjTDbRDFLfrhMJg" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
@@ -27,37 +25,17 @@
   </a>
 </div>
 
-###
 
-<h1 align="left">Portfolio📓:</h1>
 
-###
-
+<!-- GithubStats -->
 <div align="center">
-  <img height="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2owaDBvbjlkNGw0dXdyZHlzNmt0MGgzcmt2NGowNXA3ajBhNXk0bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HRC3FlKFIj2WAIMDR3/giphy.gif"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Stoneys1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="148" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Stoneys1&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dracula&hide_border=true" height="148" alt="languages graph"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/Stoneys1/Stoneys1/output/snake.svg" alt="Snake animation" />
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <a href="https://open.spotify.com/user/Stoney">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Stoney&count=1&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-<h2 align="left">Tecnologias que eu mais utilizo🖥️</h2>
-
-###
-
-<div align="left">
+## Tecnologias que eu mais utilizo🖥️
+<!-- Skills: Programming Languages -->
+ <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -73,4 +51,24 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
 </div>
 
-###
+
+
+<!-- Portfolio -->
+## Portfolio📓:
+- [Amazon](https://github.com/stoneys1/Amazon)
+- [App Música](https://github.com/stoneys1/App-Musica)
+- [Filmes com Api](https://github.com/stoneys1/Guia-de-Filmes)
+- [Site Viagens](https://github.com/stoneys1/Travel)
+
+<!-- GIF -->
+<p align="left">
+  <img align="center" height="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzRhZGJhYXZreHNsdndxYWFrdzA5ZG55eHgybjRtZWxxZXRhcXc2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HRC3FlKFIj2WAIMDR3/giphy.gif">
+</p>
+
+
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12157093390&unique={true|1|on|yes})
+
+
+
+
