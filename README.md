@@ -41,6 +41,8 @@
 
 ###
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12157093390&unique={true|1|on|yes})
+
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Stoneys1/Stoneys1/output/snake.svg" alt="Snake animation" />
@@ -49,7 +51,7 @@
 
 <br clear="both">
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12157093390&unique={true|1|on|yes})
+
 
 ###
 
