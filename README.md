@@ -8,7 +8,7 @@
 ![Stoneys1 Status](https://github-readme-stats.vercel.app/api?username=stoneys1&show_icons=true&theme=tokyonight)
 
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12157093390&unique={true|1|on|yes})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12157093390)
 
 ## Tecnologias que eu mais utilizo🖥️
 
