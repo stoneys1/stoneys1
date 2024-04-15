@@ -58,6 +58,7 @@
  <a href="https://github.com/stoneys1/Amazon" target="_blank">
  <a href="https://github.com/stoneys1/App-Musica" target="_blank">
   <a href="https://github.com/stoneys1/Travel" target="_blank">
+  </div>
 
 
 
