@@ -3,10 +3,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Stoneys1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
-  
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Stoneys1&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Stoneys1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="148" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Stoneys1&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dracula&hide_border=true" height="148" alt="languages graph"  />
 </div>
 
 ###
@@ -31,8 +29,7 @@
 
 ###
 
-<h1 align="left">Portfolio📓:
-• <a href="https://github.com/stoneys1/Amazon" target="blank">
+<h1 align="left">Portfolio📓:</h1>
 
 ###
 
@@ -42,21 +39,27 @@
 
 ###
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12157093390&unique={true|1|on|yes})
-
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/Stoneys1/Stoneys1/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <br clear="both">
 
-
+<div align="center">
+  <a href="https://open.spotify.com/user/Stoney">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Stoney&count=1&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ###
 
-<h2 align="left">Tecnologias que eu mais utilizo🖥️</h2>
+<h2 align="left">Tecnologias que eu mais utilizo🖥️
+<div align="center">
+ <a href="https://github.com/stoneys1/Amazon" target="_blank">
+ <a href="https://github.com/stoneys1/App-Musica" target="_blank">
+  <a href="https://github.com/stoneys1/Travel" target="_blank">
+
+
 
 ###
 
